@@ -1,2 +1,3 @@
-projectGame
+Snooke
 ===========
+A small snake project.
